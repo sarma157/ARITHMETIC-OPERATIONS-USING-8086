@@ -55,17 +55,29 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   98                     | 
+|  2001                   |   76                     |
+|  2002                   |   12                     |
+|  2003                   |   34                     |
 
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   AA                     | 
+|  2005                   |   AA                     |
+|  2006                   |   00                     |
+|     2003
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-21 at 22 35 52_aaf9333f](https://github.com/user-attachments/assets/00fcb3ae-63c9-4c94-a1d7-873923756104)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="637" height="428" alt="indadd op" src="https://github.com/user-attachments/assets/51e062d4-bd7e-454e-911c-5bd56a70363e" />
+
 
 ## 2. SUBTRACTION
 
